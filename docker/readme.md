@@ -2,6 +2,8 @@
 
 ### Build the Docker Image
 ```console
+# Download the Dockerfile and place into new directory
+# Build the docker image
 docker build -t vishare .
 ```
 
